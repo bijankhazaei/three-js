@@ -74,8 +74,6 @@ if (!class_exists('WPTJS')) :
             if (!did_action('plugins_loaded')) {
                 return;
             }
-
-
         }
 
         /**
